@@ -1,0 +1,18 @@
+body {
+    background-color: lightgreen;
+    font-family: Space Grotesk Regular;
+    font-size: 20px;
+}
+
+h1 {
+    color: aqua;
+    background-color: deeppink;
+}
+
+h2 {
+    color: deeppink;
+}
+
+p {
+    text-align: justify;
+}
